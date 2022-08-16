@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace simpleIntrest
 {
+
     internal class SimpleInterest : Math, ICalculator
     {
 
