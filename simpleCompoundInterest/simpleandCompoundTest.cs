@@ -102,7 +102,6 @@ namespace simpleCompoundInterest
 
         }
 
-
         [Fact]
         public void SimpleInterest()
 
@@ -157,11 +156,6 @@ namespace simpleCompoundInterest
 
 
         }
-
-
-
-
-
 
     }
 }
