@@ -136,7 +136,7 @@ namespace simpleCompoundInterest
         }
 
         [Fact]
-        public void CompoudnInterest()
+        public void CompoundInterest()
 
         {
             Imath imath = new Math();
